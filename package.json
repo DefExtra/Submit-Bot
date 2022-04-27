@@ -1,0 +1,22 @@
+{
+  "name": "submit-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.ts",
+  "scripts": {
+    "start": "ts-node .",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "Def",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "discord-modals": "^1.3.5",
+    "discord.js": "^13.6.0",
+    "quickmongo": "^5.1.2"
+  }
+}

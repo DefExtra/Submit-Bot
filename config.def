@@ -1,0 +1,4 @@
+{
+    "token": "the discord bot token",
+    "mongoDBurl": "the mongo connection url"
+}
